@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">E-dziennik</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="have_account">Already have an account?</string>
+    <!--<string name="db_url">http:\/\/freddy-fnaf.000webhostapp.com\/androiddb\/</string>-->
+    <string name="db_url">http:\/\/192.168.1.103\/androiddb\/</string>
+    <string-array name="role">
+        <item>nauczyciel</item>
+        <item>rodzic</item>
+        <item>uczeń</item>
+    </string-array>
+    <string-array name="przedmioty">
+        <item>matematyka</item>
+        <item>fizyka</item>
+        <item>biologia</item>
+        <item>chemia</item>
+        <item>polski</item>
+        <item>angielski</item>
+        <item>historia</item>
+        <item>informatyka</item>
+    </string-array>
+    <string-array name="dni_tygodnia">
+        <item>poniedziałek</item>
+        <item>wtorek</item>
+        <item>środa</item>
+        <item>czwartek</item>
+        <item>piątek</item>
+    </string-array>
+    <string-array name="typy_aktualnosci">
+        <item>test</item>
+        <item>wycieczka</item>
+        <item>kartkówka</item>
+        <item>zebranie</item>
+    </string-array>
+</resources>
